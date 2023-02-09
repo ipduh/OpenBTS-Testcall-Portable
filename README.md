@@ -16,7 +16,7 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 
 ## Install
 
-$ sudo bash
+$ sudo bash <br>
 $ whoami  <br>
 root      <br>
 
