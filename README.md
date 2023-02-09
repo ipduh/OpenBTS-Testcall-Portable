@@ -17,14 +17,14 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 ## Install
 
 $ sudo bash
-# whoami
+\# whoami
 root
 
-# ./install-dependencies.sh
-# ./install-uhd-images.sh
-# dpkg -i ./packages/*.deb
-# cp gsm_helpers.sh /OpenBTS
-# echo ". /OpenBTS/gsm_helpers.sh >> ~/.bashrc
+\# ./install-dependencies.sh
+\# ./install-uhd-images.sh
+\# dpkg -i ./packages/*.deb
+\# cp gsm_helpers.sh /OpenBTS
+\# echo ". /OpenBTS/gsm_helpers.sh >> ~/.bashrc
 
 
 ## Copyright & Legal
