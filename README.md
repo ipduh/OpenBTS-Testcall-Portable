@@ -8,7 +8,7 @@ It aims in easing the installation and configuration of a GSM/GPRS one basestati
 
 This is my packaged fork, https://github.com/ipduh/openbts, of OpenBTS,
  along with gsm_helpers, https://github.com/ipduh/gsm_helpers, a bashrc
- script with admin shortcuts.
+ script with helper admin functions.
 
 This version of OpenBTS differs from the current version of OpenBTS in the following.
 
