@@ -24,7 +24,7 @@ $ ./install-dependencies.sh     <br>
 $ ./install-uhd-images.sh       <br>
 $ dpkg -i ./packages/*.deb      <br>
 $ cp gsm_helpers.sh /OpenBTS    <br>
-$ echo ". /OpenBTS/gsm_helpers.sh >> ~/.bashrc <br>
+$ echo '. /OpenBTS/gsm_helpers.sh >> ~/.bashrc' <br>
 
 
 ## Copyright & Legal
