@@ -17,10 +17,10 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 ## Install
 
 $ sudo bash
-\# whoami #
-root
+\# whoami # <br>
+root        <br>
 
-\# ./install-dependencies.sh #
+\# ./install-dependencies.sh # <br>
 \# ./install-uhd-images.sh
 \# dpkg -i ./packages/*.deb
 \# cp gsm_helpers.sh /OpenBTS
