@@ -17,17 +17,18 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 2)It allows for larger IMSIs.
 
 ## Install
+```
+$ sudo bash
+# whoami
+root
 
-$ sudo bash <br>
-$ whoami  <br>
-root      <br>
-
-$ ./install-dependencies.sh     <br>
-$ ./install-uhd-images.sh       <br>
-$ dpkg -i ./packages/*.deb      <br>
-$ cp gsm_helpers.sh /OpenBTS    <br>
-$ echo '. /OpenBTS/gsm_helpers.sh' >> ~/.bashrc <br>
-
+# ./install-dependencies.sh
+# ./install-uhd-images.sh
+# dpkg -i ./packages/*.deb
+# cp gsm_helpers.sh /OpenBTS
+# echo 'source /OpenBTS/gsm_helpers.sh' >> ~/.bashrc
+# . ~/.bashrc
+```
 
 ## Copyright & Legal
 
