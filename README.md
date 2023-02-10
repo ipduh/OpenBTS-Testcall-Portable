@@ -1,14 +1,14 @@
 ## OpenBTS-Testcall-Portable
-OpenBTS with Testcall Debian Packages for Ubuntu 16.04LTS on amd64
+OpenBTS with Testcall Debian Packages. <br>
+Tested on Ubuntu 16.04LTS with a B210 SDR.
 
 ## Synopsis
-
 
 It aims in easing the installation and configuration of a GSM/GPRS one basestation network with OpenBTS.
 
 This is my packaged fork, https://github.com/ipduh/openbts, of OpenBTS,
- along with gsm_helpers, https://github.com/ipduh/gsm_helpers, a bashrc
- script with helper admin functions.
+along with gsm_helpers, https://github.com/ipduh/gsm_helpers, a bash
+script with administration and provisioning helper functions.
 
 This version of OpenBTS differs from the current version of OpenBTS in the following.
 
@@ -21,7 +21,6 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 $ sudo bash
 # whoami
 root
-
 # ./install-dependencies.sh
 # ./install-uhd-images.sh
 # dpkg -i ./packages/*.deb
