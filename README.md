@@ -17,7 +17,7 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 2)It allows for larger IMSIs.
 
 ## Install
-```
+```sh
 $ sudo bash
 # whoami
 root
