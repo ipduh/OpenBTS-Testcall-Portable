@@ -1,6 +1,5 @@
 ## OpenBTS-Testcall-Portable
 OpenBTS with Testcall Debian Packages. <br>
-Tested on Ubuntu 16.04LTS with a B210 SDR.
 
 ## Synopsis
 
@@ -15,6 +14,8 @@ This version of OpenBTS differs from the current version of OpenBTS in the follo
 1)It backports Testcall, a feature that makes it easy to send raw packets through a socket.
 
 2)It allows for larger IMSIs.
+
+Tested thorougly only with a B210 SDR.
 
 ## Install
 ```sh
@@ -31,6 +32,6 @@ root
 
 ## Copyright & Legal
 
+Please see LEGAL and LICENSE before using this piece of software. <br>
 Same with the original Range Networks License.
-Please see LEGAL and LICENSE.
 
